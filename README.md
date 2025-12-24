@@ -43,7 +43,6 @@
   <img src="./resources/icons/linkedin.png" width="45" />
 </a>
 &nbsp;
-&nbsp;
 <a href="mailto:dhanikaweerasekara@outlook.com">
   <img src="./resources/icons/mail.png" width="45" />
 </a>
