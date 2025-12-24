@@ -31,17 +31,15 @@
 
 </div>
 
-<div>
 
-### I enjoy building reliable systems, automating workflows, and learning how large-scale systems behave in the real world. 
-### Has a strong focus on ***Linux***, ***Cloud Infrastructure***, and **DevOps Practices**. 
-___
+**I enjoy building reliable systems, automating workflows, and learning how large-scale systems behave in the real world.**
 
-</div>
+**Has a strong focus on Linux, Cloud Infrastructure, and DevOps Practices.**
 
-+ ### Currently Focusing on
-    ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-    ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+
+### Currently Focusing on
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 
 
 
