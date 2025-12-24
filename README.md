@@ -33,10 +33,23 @@
 **I enjoy building reliable systems, automating workflows, and learning how large-scale systems behave in the real world with a strong focus on Linux, Cloud Infrastructure, and DevOps Practices.**
 
 
-### Currently Focusing on
+### Currently Learning
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+
+### Reach Me @
+<a href="https://www.linkedin.com/in/dhanikaweerasekara">
+  <img src="./resources/icons/linkedin.png" width="45" />
+</a>
+&nbsp;
+&nbsp;
+<a href="mailto:dhanikaweerasekara@outlook.com">
+  <img src="./resources/icons/mail.png" width="45" />
+</a>
+
+
+
 
 
 
